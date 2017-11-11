@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Home
-permalink: /
 ---
 
 About content goes here.
