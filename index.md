@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+header: none
 ---
 
 United States Department of Agriculture
