@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-[logo]: img src="http://i64.tinypic.com/33043yd.jpg "November Kilo Echo"
+![alt text][logo]
+[logo]: img src="https://i64.tinypic.com/33043yd.jpg "November Kilo Echo"
 
 #Welcome to NovemberKiloEcho
 
