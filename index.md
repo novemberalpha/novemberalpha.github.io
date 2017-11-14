@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![alt text](assets/images/nke-logo.svg "NovemberKiloEcho")
+![NovemberKiloEcho](assets/images/nke-logo.svg "NovemberKiloEcho")
 
 ### AR / HMD for First Responders
 
@@ -11,4 +11,4 @@ title: Home
 
 # 20171113 - We are powering up: Hello World!
 
-[![The Future of Firefighting](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube-nocookie.com/embed/QBAnr2gQTH0)
+[![The Future of Firefighting](https://img.youtube.com/vi/QBAnr2gQTH0/0.jpg)](https://www.youtube.com/watch?v=QBAnr2gQTH0)
